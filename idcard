@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>id card</title>
+</head>
+<center>
+
+<div class="card"; style=" border:3px solid red; width: 500;height:696;" >
+<img src="sasilogo.png" alt="image not found" style="background-color:pink;width:500;">
+<center>
+<p>
+<img src="id.jfif" alt="image not found" style=" border:5px solid black; width:200; height:200;">
+</p>
+<p style="color:green">MEDAPATI SIRI DURGA</p>
+<h2>B.Tech-CSE<h2>
+<h2 style ="color:blue">24K65A0509</h2>
+<img src="bc.gif"; style="width:450";>
+</center>
+<footer style="background-color:pink;">
+<ul style="list-style-type:none;">
+<pre><li><h3 align = "left">Aadhar No:********6776               VALID:2024-28 </h3></li></pre>
+<pre><li><h3 align = "left">Father:M.SATYANARAYANA REDDY               O(+)</h3></li></pre>
+<li><h6 align = "left"> Village:KANTHERU</h6></li>
+<pre><li><h3 align = "left">CELL:********432                   Principal</h3></li></pre>
+</ul>
+</div>
+</footer>
+</html>
