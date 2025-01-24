@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>id card</title>
+<style>
+table th,td{
+border:1px solid black;
+}
+</style>
+</head>
+<center>
+<table>
+<th><img src="sasilogo.png"></th>
+<tr>
+<td align="center">
+<img src="id.jfif" alt="image not found" style=" border:3px solid red; width: 100;height:100;" ></td>
+</tr>
+<tr>
+<td align="center">
+<h4 style="color:green">MEDAPATI SIRI DURGA</h4>
+</td>
+</tr>
+<tr>
+<td align="center">B.Tech-CSE</td>
+</tr>
+<tr>
+<td align="center">24K65A0509</td>
+</tr>
+<tr>
+<td align="center">
+<img src="bc.gif"; style="width:200";>
+</td>
+</tr>
+<tr>
+<td><h5>Aadhar No:********6776 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp &nbsp; &nbsp; &nbsp;&nbsp;&nbsp &nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;Valid:2024-2027</h5></td>
+</tr>
+<tr>
+<td><h5>Father:M.SATYANARAYANA REDDY &nbsp; &nbsp; &nbsp;&nbsp;&nbsp &nbsp; &nbsp; &nbsp;&nbsp;&nbsp &nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp;&nbsp;   B.G:O+</h5></td>
+</tr>
+<tr>
+<td><h5>Village:KANTHERU</h5></td>
+</tr>
+<tr>
+<td><h5>Cell:*******432 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp &nbsp; &nbsp; &nbsp;&nbsp;&nbsp &nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Principal</h5></td>
+</tr>
+
+</table>
+</center>
+</html>
